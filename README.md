@@ -7,4 +7,4 @@ Training of neural networks can be accelerated by using the parallelism of calcu
 
 Here's the result:
 
-![link](![alt text](https://user-images.githubusercontent.com/33765868/34654402-5dc7eddc-f3fb-11e7-9148-0ac42a453c5a.png)
+!(![alt text](https://user-images.githubusercontent.com/33765868/34654402-5dc7eddc-f3fb-11e7-9148-0ac42a453c5a.png)
