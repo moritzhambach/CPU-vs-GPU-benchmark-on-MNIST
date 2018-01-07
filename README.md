@@ -6,4 +6,4 @@ System: i7 8550U (4 cores), 16 GB ram, Geforce MX150 (2GB), windows 10
 Training of neural networks can be accelerated by using the parallelism of calculations on GPUs. But by how much, for a typical small convolutional neural network? Let's find out! Here I compare training duration of a CNN with CPU or GPU for different batch sizes. The GPU load is monitored in an independent program (GPU-Z). 
 
 Here's the result:
-
+![alt text](http://url/to/img.png)
