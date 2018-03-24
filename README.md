@@ -11,3 +11,5 @@ Here's the result:
 ![alt text](https://user-images.githubusercontent.com/33765868/34654656-19171952-f3ff-11e7-9d1b-2f7c1ff8333b.png)
 
 We can see that the GPU calculations with Cuda/CuDNN run faster by a factor of 4-6 depending on the batch sizes (bigger is faster).
+
+Edit: I tried training the same notebook on a Tesla K80 in the cloud, which can be accessed for free (!!!) via google colab (https://colab.research.google.com/notebooks/welcome.ipynb). The setup is quick and easy, tensorflow is already installed etc. The training ran another factor of 2 faster than my local GPU, and avoid driving my poor laptop so hard, so I'll probably switch to that. Thanks google!
